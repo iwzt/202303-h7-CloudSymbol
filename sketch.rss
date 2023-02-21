@@ -11,7 +11,7 @@
     <item>
       <title>CloudSymbol</title>
       <pubDate>Wed, 23 Jun 2019 11:19:04 +0000</pubDate>
-      <enclosure url="https://github.com/iwzt/202303-h7-CloudSymbol/blob/main/CloudSymbol.sketch" type="application/octet-stream" sparkle:version="1.0"/>
+      <enclosure url="/CloudSymbol.sketch" type="application/octet-stream" sparkle:version="1.0"/>
     </item>
   </channel>
 </rss>
